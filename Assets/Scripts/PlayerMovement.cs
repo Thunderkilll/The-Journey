@@ -112,9 +112,7 @@ public class PlayerMovement : MonoBehaviour
             
             gameover.SetActive(true);
             Debug.Log("player death");
-            //play hit annimation
-            //recieve damage
-            //play death annimation
+            
 
         }
         else

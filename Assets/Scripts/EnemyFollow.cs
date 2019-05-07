@@ -17,7 +17,7 @@ public class EnemyFollow : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Vector2.Distance(transform.position ,  target.position) > distance)
+        if (Vector2.Distance(transform.position ,  target.position) < distance)
         {
             transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime); //MoveToward(from , to , speed);
         }

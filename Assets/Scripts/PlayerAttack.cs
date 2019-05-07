@@ -46,7 +46,7 @@ public class PlayerAttack : MonoBehaviour
         
     }
     public Color gizmoColor = Color.red;
-    void OnDrawGismoSelected()
+    void onDrawGismoSelected()
     {
         Gizmos.color = Color.red; //couleur cercle gizmos red
         Gizmos.DrawWireSphere(attackPos.position , attackRange);
