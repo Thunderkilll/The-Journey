@@ -38,7 +38,7 @@ Of course i used packages from the unity assets store and from those packages th
 
 ![level 1](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-18-25-59.png)
 
-![victory pose and pick up animation ](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-18-25-59.png)
+![victory pose and pick up animation ](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-18-25-48.png)
 ## Authors
 
 * **Khaled Guesmi**  - [LinkedIn](https://www.linkedin.com/in/khaled-guesmi-b358a6174/)
