@@ -30,7 +30,18 @@ Of course i used packages from the unity assets store and from those packages th
 * **Sunnyland**
 * **Warped Caves**
 
+## Authors
 
+* **Khaled Guesmi**  - [LinkedIn](https://www.linkedin.com/in/khaled-guesmi-b358a6174/)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* I want to thank all the youtubers and devs i used their Code like **Brakeys** , **Code Monkey** , **Unity Tutorials** , **Blackthornprod** , **Aurore Dimopoulos** producer of 2DGameKit
+* I inspired this game from **mario game** and **Freedom Planet 1** and also from my mind hehehehehe
 
 
 
