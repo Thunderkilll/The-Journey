@@ -43,6 +43,9 @@ Of course i used packages from the unity assets store and from those packages th
 ![level 1](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-19-02-42.png)
 ![pause menu](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-19-02-51.png)
 ![victory pose and pick up animation ](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-18-25-48.png)
+![inner levels](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-18-26-54.png)
+![inner levels](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-18-26-40.png)
+![inner levels](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-18-26-18.png)
 ## Authors
 
 * **Khaled Guesmi**  - [LinkedIn](https://www.linkedin.com/in/khaled-guesmi-b358a6174/)
@@ -57,5 +60,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * I inspired this game from **mario game** and **Freedom Planet 1** and also from my mind hehehehehe
 
 
-
+# I Hope Your Like It 
  
