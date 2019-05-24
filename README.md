@@ -17,7 +17,7 @@ Of course i used packages from the unity assets store and from those packages th
 
 ## ps : I used my own assets too and music .
 
-## Built With
+## Used  
 
 * **Joystick Pack** 
 * **2DGamekit**
