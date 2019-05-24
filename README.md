@@ -31,13 +31,17 @@ Of course i used packages from the unity assets store and from those packages th
 * **Warped Caves**
 # Screenshots
 
-![main menu](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-18-23-31.png) this is old version 
+![main menu](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-19-01-29.png)  
+![main menu](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-19-01-37.png) 
+![main menu/ options](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-19-01-50.png)
+![main menu/ options / controls](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-19-02-05.png)
 ![loading scene](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-18-24-04.png)
 
 ![player up close ](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-18-25-39.png)
 
 ![level 1](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-18-25-59.png)
-
+![level 1](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-19-02-42.png)
+![pause menu](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-19-02-51.png)
 ![victory pose and pick up animation ](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-18-25-48.png)
 ## Authors
 
