@@ -29,7 +29,16 @@ Of course i used packages from the unity assets store and from those packages th
 * **Skeleton Sprite Pack**
 * **Sunnyland**
 * **Warped Caves**
+# Screenshots
 
+![main menu](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-18-23-31.png) this is old version 
+![loading scene](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-18-24-04.png)
+
+![player up close ](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-18-25-39.png)
+
+![level 1](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-18-25-59.png)
+
+![victory pose and pick up animation ](https://github.com/Thunderkilll/The-Journey/blob/master/Assets/captures/Screenshot_2019-05-24-18-25-59.png)
 ## Authors
 
 * **Khaled Guesmi**  - [LinkedIn](https://www.linkedin.com/in/khaled-guesmi-b358a6174/)
@@ -44,6 +53,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * I inspired this game from **mario game** and **Freedom Planet 1** and also from my mind hehehehehe
 
 
-![alt text](http://url/to/img.png)
 
  
