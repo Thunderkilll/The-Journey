@@ -20,15 +20,15 @@ Of course i used packages from the unity assets store and from those packages th
 ## Built With
 
 * **Joystick Pack** 
-* 2DGamekit
-* TrollNest_Free
-* buttonsdesign
-* explosions-pack-web
-* Knight Files
-* Roguelike Dungeon - Asset Bundle
-* Skeleton Sprite Pack
-* Sunnyland
-* Warped Caves
+* **2DGamekit**
+* **TrollNest_Free**
+* **buttonsdesign**
+* **explosions-pack-web**
+* **Knight Files**
+* **Roguelike Dungeon - Asset Bundle**
+* **Skeleton Sprite Pack**
+* **Sunnyland**
+* **Warped Caves**
 
 
 
