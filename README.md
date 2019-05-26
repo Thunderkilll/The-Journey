@@ -49,7 +49,7 @@ Of course i used packages from the unity assets store and from those packages th
 ## Authors
 
 * **Khaled Guesmi**  - [LinkedIn](https://www.linkedin.com/in/khaled-guesmi-b358a6174/)
-* **usefull links ** - [itch.io] (https://thunderkill.itch.io/the-journey)
+* **useful links ** - [itch.io] (https://thunderkill.itch.io/the-journey)
 
 ## License
 
